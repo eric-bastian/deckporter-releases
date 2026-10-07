@@ -17,7 +17,8 @@ This repository holds **only the published binaries and the release notes**.
 
 - **All six directions** between Rekordbox, Serato and Traktor.
 - **What travels**: playlists in their order, hot cues and memory cues (with
-  their pad and colour), loops, beatgrids, track information.
+  their pad and colour — towards Serato, keep the source colours or use
+  Serato's defaults), loops, beatgrids, track information.
 - **Three ways of working**:
   - **Local conversion** — both programs are on this computer;
   - **Create a package** — take one or more playlists to another computer in a
@@ -46,13 +47,16 @@ This repository holds **only the published binaries and the release notes**.
     Serato or Traktor; a restore can itself be undone.
 - **Guided interface**: bubbles show the next step, and a report tells what
   happened to each piece of data after every transfer.
+- **Four languages**: English, French, Spanish and German — Deckporter follows
+  the Windows language, and the flag at the top right switches it.
 - **Everything stays on your computer**: nothing is sent over the internet.
 
 ## Download
 
 ➡️ **[Latest release](../../releases/latest)**
 
-Windows 10 / 11, 64-bit. The interface is in French.
+Windows 10 / 11, 64-bit. The interface is available in English, French,
+Spanish and German.
 
 The installer is **not digitally signed**: Windows SmartScreen will show a
 warning on first launch ("More info" → "Run anyway"). Check the SHA-256
@@ -111,7 +115,8 @@ Ce dépôt ne contient **que les binaires publiés et les notes de version**.
 
 - **Les six directions** entre Rekordbox, Serato et Traktor.
 - **Ce qui voyage** : les playlists dans leur ordre, les hot cues et memory cues
-  (avec leur pad et leur couleur), les boucles, les grilles de tempo, le
+  (avec leur pad et leur couleur — vers Serato, celles de la source ou celles
+  que Serato donne par défaut), les boucles, les grilles de tempo, le
   descriptif des morceaux.
 - **Trois façons de travailler** :
   - **Conversion locale** — les deux logiciels sont sur cet ordinateur ;
@@ -144,13 +149,16 @@ Ce dépôt ne contient **que les binaires publiés et les notes de version**.
     être défaite.
 - **Interface guidée** : des bulles montrent l'étape suivante, et un rapport dit
   ce qu'est devenue chaque donnée après chaque transfert.
+- **Quatre langues** : français, anglais, espagnol et allemand — Deckporter suit
+  la langue de Windows, et le drapeau en haut à droite permet d'en changer.
 - **Tout reste sur votre ordinateur** : rien n'est envoyé sur Internet.
 
 ## Télécharger
 
 ➡️ **[Dernière version](../../releases/latest)**
 
-Windows 10 / 11, 64 bits.
+Windows 10 / 11, 64 bits. Interface en français, anglais, espagnol et
+allemand.
 
 L'installateur n'est **pas signé numériquement** : Windows SmartScreen affichera
 un avertissement au premier lancement (« Informations complémentaires » →
