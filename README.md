@@ -49,7 +49,10 @@ This repository holds **only the published binaries and the release notes**.
   happened to each piece of data after every transfer.
 - **Four languages**: English, French, Spanish and German — Deckporter follows
   the Windows language, and the flag at the top right switches it.
-- **Everything stays on your computer**: nothing is sent over the internet.
+- **Your library stays on your computer**: no playlist title, track title,
+  artist, path or file is ever sent. At startup, Deckporter contacts its
+  server to renew its licence and check for updates; it sends anonymous usage
+  statistics only if you agree (details in the release notes).
 
 ## Download
 
@@ -151,7 +154,11 @@ Ce dépôt ne contient **que les binaires publiés et les notes de version**.
   ce qu'est devenue chaque donnée après chaque transfert.
 - **Quatre langues** : français, anglais, espagnol et allemand — Deckporter suit
   la langue de Windows, et le drapeau en haut à droite permet d'en changer.
-- **Tout reste sur votre ordinateur** : rien n'est envoyé sur Internet.
+- **Votre bibliothèque reste sur votre ordinateur** : aucun titre de playlist,
+  aucun titre de morceau, aucun artiste, aucun chemin et aucun fichier n'est
+  jamais envoyé. Au démarrage, Deckporter contacte son serveur pour renouveler
+  sa licence et vérifier les mises à jour ; il n'envoie des statistiques
+  d'usage anonymes qu'avec votre accord (détails dans les notes de version).
 
 ## Télécharger
 
