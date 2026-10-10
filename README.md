@@ -52,7 +52,8 @@ This repository holds **only the published binaries and the release notes**.
 - **Your library stays on your computer**: no playlist title, track title,
   artist, path or file is ever sent. At startup, Deckporter contacts its
   server to renew its licence and check for updates; it sends anonymous usage
-  statistics only if you agree (details in the release notes).
+  statistics only if you agree, and your email address only if you add one in
+  **My account** (details in the release notes).
 
 ## Download
 
@@ -158,7 +159,8 @@ Ce dépôt ne contient **que les binaires publiés et les notes de version**.
   aucun titre de morceau, aucun artiste, aucun chemin et aucun fichier n'est
   jamais envoyé. Au démarrage, Deckporter contacte son serveur pour renouveler
   sa licence et vérifier les mises à jour ; il n'envoie des statistiques
-  d'usage anonymes qu'avec votre accord (détails dans les notes de version).
+  d'usage anonymes qu'avec votre accord, et votre adresse e-mail que si vous en
+  ajoutez une dans **Mon compte** (détails dans les notes de version).
 
 ## Télécharger
 
